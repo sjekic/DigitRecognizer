@@ -1,2 +1,2 @@
 # DigitRecognizer
-4 models (ML, MLP and CNN) used for digit recognition
+4 models (k-NN, SVC, MLP and CNN) used for digit recognition
